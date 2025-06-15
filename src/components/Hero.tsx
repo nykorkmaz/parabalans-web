@@ -26,7 +26,7 @@ export default function Hero() {
                 rel="noopener noreferrer"
                 className="btn-gradient text-white px-8 py-4 rounded-full text-lg font-semibold text-center inline-block"
               >
-                App Store'dan İndir
+                App Store&apos;dan İndir
               </a>
               <Link
                 href="/features"

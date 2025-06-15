@@ -324,7 +324,7 @@ export default function GuidePage() {
               ParaBalans <span className="gradient-text">Kullanım Kılavuzu</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              ParaBalans'ı etkili şekilde kullanmak için adım adım rehberimizi takip edin. 
+              ParaBalans&apos;ı etkili şekilde kullanmak için adım adım rehberimizi takip edin.
               Finansal kontrolünüzü elinize almak hiç bu kadar kolay olmamıştı.
             </p>
           </div>
@@ -426,7 +426,7 @@ export default function GuidePage() {
                 Başarı İçin İpuçları
               </h2>
               <p className="text-xl text-gray-600">
-                ParaBalans'tan maksimum verim almak için bu önerileri uygulayın
+                ParaBalans&apos;tan maksimum verim almak için bu önerileri uygulayın
               </p>
             </div>
             
@@ -493,7 +493,7 @@ export default function GuidePage() {
               Hemen Başlayın!
             </h2>
             <p className="text-xl text-white/90 mb-8">
-              ParaBalans'ı indirin ve finansal kontrolünüzü elinize alın.
+              ParaBalans&apos;ı indirin ve finansal kontrolünüzü elinize alın.
             </p>
             <a
               href="https://apps.apple.com/tr/app/parabalans/id6746780359?l=tr"
@@ -501,7 +501,7 @@ export default function GuidePage() {
               rel="noopener noreferrer"
               className="bg-white text-parabalans-blue px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors inline-block"
             >
-              App Store'dan İndir
+              App Store&apos;dan İndir
             </a>
           </div>
         </section>

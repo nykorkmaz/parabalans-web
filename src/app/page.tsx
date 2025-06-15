@@ -35,8 +35,8 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "ParaBalans sayesinde ailemizin harcamalarını çok daha iyi kontrol edebiliyoruz.
-                  Özellikle bütçe planlama özelliği harika!"
+                  &ldquo;ParaBalans sayesinde ailemizin harcamalarını çok daha iyi kontrol edebiliyoruz.
+                  Özellikle bütçe planlama özelliği harika!&rdquo;
                 </p>
               </div>
 
@@ -51,7 +51,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "Düzenli işlemler özelliği çok pratik. Artık her ay aynı faturaları tekrar tekrar girmiyorum."
+                  &ldquo;Düzenli işlemler özelliği çok pratik. Artık her ay aynı faturaları tekrar tekrar girmiyorum.&rdquo;
                 </p>
               </div>
 
@@ -66,7 +66,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-gray-600 italic">
-                  "Hedef belirleme özelliği motivasyonumu artırdı. Artık ne için para biriktirdiğimi biliyorum."
+                  &ldquo;Hedef belirleme özelliği motivasyonumu artırdı. Artık ne için para biriktirdiğimi biliyorum.&rdquo;
                 </p>
               </div>
             </div>
@@ -80,7 +80,7 @@ export default function Home() {
               Finansal Geleceğinizi Bugün Planlayın
             </h2>
             <p className="text-xl text-white/90 mb-8">
-              ParaBalans'ı ücretsiz indirin ve ailenizin finansal kontrolünü elinize alın.
+              ParaBalans&apos;ı ücretsiz indirin ve ailenizin finansal kontrolünü elinize alın.
             </p>
             <div className="flex justify-center">
               <a
@@ -89,7 +89,7 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="bg-white text-parabalans-blue px-8 py-4 rounded-full text-lg font-semibold hover:bg-gray-100 transition-colors"
               >
-                App Store'dan İndir
+                App Store&apos;dan İndir
               </a>
             </div>
           </div>

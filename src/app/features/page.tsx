@@ -200,7 +200,7 @@ export default function FeaturesPage() {
               Tüm Bu Özellikleri Ücretsiz Deneyin
             </h2>
             <p className="text-xl text-gray-600 mb-8">
-              ParaBalans'ı indirin ve ailenizin finansal geleceğini güvence altına alın.
+              ParaBalans&apos;ı indirin ve ailenizin finansal geleceğini güvence altına alın.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
@@ -209,7 +209,7 @@ export default function FeaturesPage() {
                 rel="noopener noreferrer"
                 className="btn-gradient text-white px-8 py-4 rounded-full text-lg font-semibold"
               >
-                App Store'dan İndir
+                App Store&apos;dan İndir
               </a>
               <a
                 href="/guide"
